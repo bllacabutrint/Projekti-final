@@ -14,7 +14,7 @@
 		href="css/dashboard.css"> 
 </head> 
 
-<body> 
+<body>
 	
 	<!-- for header part -->
 	<header> 
